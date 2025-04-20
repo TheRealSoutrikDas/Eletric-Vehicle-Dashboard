@@ -1,5 +1,6 @@
 # Electric Vehicle Dashboard
 link to deployed Dashboard: [https://eletric-vehicle-dashboard.vercel.app/](https://eletric-vehicle-dashboard.vercel.app/)  
+Alternate Link: [Alternate Github Repository](https://github.com/TheRealSoutrikDas/analytics-dashboard-assessment)
 
 ## Deploy Locally
 To deploy locally go through the following steps:
